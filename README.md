@@ -9,7 +9,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
    
    - **Song Lyrics Classification**
 
-      The goal of this project is to classify song lyrics into their respective genres using machine learning techniques. By leveraging distributed machine learning with MLlib and Apache Spark, the model is able to process large amounts of text data efficiently. This classification model applies various text preprocessing methods like Tokenizer, Word2Vec, and CountVectorizer to transform lyrics into usable features, and then utilizes machine learning algorithms like Logistic Regression and Random Forest to categorize the lyrics into genres.
+      The goal of this project is to classify song lyrics into their respective genres using machine learning techniques. By leveraging distributed machine learning with MLlib and Apache Spark, the model is able to process large amounts of text data efficiently. This classification model applies transformers of Tokenizer, Word2Vec, and CountVectorizer, and used Logistic Regression and Random Forest to categorize the lyrics into genres.
       
         Link to Code: [Song Lyrics Classification Code](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Song%20Lyrics%20Classification)
       
@@ -29,7 +29,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
       
      Link to Code: [Log classification model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Song%20Lyrics%20Classification](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Log%20Classifier )
       
-     Skills: *<small>llm - Regex - BERT - Sentence_Transformer - groqcloud - Scikit-Learning - Clustering - FastAPI<small>*
+     Skills: *<small>llm - Regex - BERT - Sentence_Transformer - groqcloud - Scikit_Learning - Clustering - FastAPI<small>*
 
    - **Tomato Disease Classification**
 
