@@ -57,6 +57,12 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
       <img src="https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/blob/main/Data%20Analytics%20and%20Visualizations/dashboard.png" width="800" />
    </center>
 
+
+   </p>
+   <center>
+      <img src="https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/blob/main/Data%20Analytics%20and%20Visualizations/bi.png" width="800" />
+   </center>
+
 5. **Mini Data Science Projects**
 
    - [Fraud Transaction Predicting Model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Fraud%20Transaction%20Predicting%20Model) predicts the fraud transactions which is trained by random forest classifier. Exploratory data analysis in using pandas libraries and have used Matplotlib for the visualization tasks. Scikit Learning RandomForestClassifier is used to the training the model.
