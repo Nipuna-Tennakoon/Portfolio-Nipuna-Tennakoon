@@ -82,7 +82,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
    - [Movie Recommendation System](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Movie%20Recommendation%20System) uses a content-based filtering method to recommend movies, utilizing cosine similarity to measure similarities between movie content.
    - [Customer Segmentation with KMeans](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Customer%20Segmentation%20with%20KMeans) This notebook analyzes the mall customer dataset to cluster customers based on their details. Utilized Pandas for data handling, KMeans from Scikit-Learn for clustering, and Seaborn for visualization.
   
-6. **Data Engineering & Pipelines** 
+
 
 
 
