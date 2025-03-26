@@ -52,17 +52,28 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
      
 3. **Data Analytics & Visualization**
 
+   - Operational Data Analysis of Food Delivering Service
+     
    </p>
    <center>
       <img src="https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/blob/main/Data%20Analytics%20and%20Visualizations/dashboard.png" width="800" />
    </center>
 
+   The analysis examines frequent order cancellations by drivers, with a dashboard developed using Microsoft Excel. Cancellations were analyzed across different cities, order types, and values. The findings revealed fraudulent driver activities, where orders were cancelled without using the app’s timer feature. 
 
+   Tools and Skills: *Microsoft Excel - Pivot Tables - Visualizations - Statistics*
+   
+   - Crypto-currency Price Analysis in Power BI
+  
    </p>
    <center>
       <img src="https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/blob/main/Data%20Analytics%20and%20Visualizations/bi.png" width="800" />
    </center>
 
+   This Power BI visualization project explores cryptocurrency price variations from 2010 to 2024. The interactive dashboard includes filters for analyzing yearly and monthly price trends. A time series forecasting feature predicts prices for 2025. Donut charts, line charts, and tables enhance data representation.
+
+   Tools and Skills: *Power BI - Slicers - Forecasting - Data Cleaning*
+    
 5. **Mini Data Science Projects**
 
    - [Fraud Transaction Predicting Model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Fraud%20Transaction%20Predicting%20Model) predicts the fraud transactions which is trained by random forest classifier. Exploratory data analysis in using pandas libraries and have used Matplotlib for the visualization tasks. Scikit Learning RandomForestClassifier is used to the training the model.
