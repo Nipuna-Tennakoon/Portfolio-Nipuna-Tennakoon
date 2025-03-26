@@ -50,8 +50,14 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
    
       Skills: *<small>Tensorflow - LSTM - NLP - Tokenizer<small>*
      
-3. **Data Analytics & Visualization**  
-4. **Mini Data Science Projects**
+3. **Data Analytics & Visualization**
+
+   </p>
+   <center>
+      <img src="https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/blob/main/Data%20Analytics%20and%20Visualizations/dashboard.png" width="800" />
+   </center>
+
+5. **Mini Data Science Projects**
 
    - [Fraud Transaction Predicting Model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Fraud%20Transaction%20Predicting%20Model) predicts the fraud transactions which is trained by random forest classifier. Exploratory data analysis in using pandas libraries and have used Matplotlib for the visualization tasks. Scikit Learning RandomForestClassifier is used to the training the model.
 [link to dataset](https://media.geeksforgeeks.org/wp-content/uploads/20240904104950/creditcard.csv).
@@ -59,7 +65,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
    - [Movie Recommendation System](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Movie%20Recommendation%20System) uses a content-based filtering method to recommend movies, utilizing cosine similarity to measure similarities between movie content.
    - [Customer Segmentation with KMeans](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Mini%20Data%20Science%20Projects/Customer%20Segmentation%20with%20KMeans) This notebook analyzes the mall customer dataset to cluster customers based on their details. Utilized Pandas for data handling, KMeans from Scikit-Learn for clustering, and Seaborn for visualization.
   
-5. **Data Engineering & Pipelines** 
+6. **Data Engineering & Pipelines** 
 
 
 
