@@ -52,7 +52,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
      
 3. **Data Analytics & Visualization**
 
-   - [Operational Data Analysis of Food Delivering Service](https://uniofmora-my.sharepoint.com/:u:/g/personal/thennakoonrwtmncb_24_uom_lk/EW6AXmi0yjVEl6PGHxp8-QcBVOWuX9UiQ1V4ohVEj47V4A?e=8XJcFy)
+   - [Operational Data Analysis of Food Delivering Service](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Data%20Analytics%20and%20Visualizations)
      
    </p>
    <center>
@@ -63,7 +63,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
 
    Tools and Skills: *Microsoft Excel - Pivot Tables - Visualizations - Statistics*
    
-   - Crypto-currency Price Analysis in Power BI
+   - [Crypto-currency Price Analysis in Power BI](https://uniofmora-my.sharepoint.com/:u:/g/personal/thennakoonrwtmncb_24_uom_lk/EW6AXmi0yjVEl6PGHxp8-QcBVOWuX9UiQ1V4ohVEj47V4A?e=8XJcFy)
   
    </p>
    <center>
