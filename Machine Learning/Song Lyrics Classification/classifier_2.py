@@ -56,8 +56,5 @@ print(f"Test Accuracy: {accuracy}")
 
 #save the model
 
-try:
-    model.save("models/classifier_2")
+model.save("models/classifier_2")
 
-except FileExistsError:
-    print("You have already trained and saved the model")
