@@ -27,7 +27,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
 
      This project classifies system notifications using a hybrid approach with regular expressions, Logistic Regression, and an LLM in GroqCloud. It was further developed and deployed on a local server using FastAPI to serve predictions.
       
-     Link to Code: [Log classification model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Song%20Lyrics%20Classification](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Log%20Classifier )
+     Link to Code: [Log classification model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Log%20Classifier)
       
      Skills: *<small>llm - Regex - BERT - Sentence_Transformer - groqcloud - Scikit_Learning - Clustering - FastAPI<small>*
 
@@ -35,7 +35,7 @@ This repository reflects my journey as a self-motivated engineer, showcasing sel
 
       I developed a CNN-based model for classifying crop leaf diseases, achieving over 90% validation accuracy. A web application was built using FastAPI and Node.js, enabling users to upload images for real-time predictions. The project demonstrates my skills in deep learning, image classification, and full-stack development.
       
-     Link to Code: [Log classification model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Song%20Lyrics%20Classification](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Log%20Classifier )
+     Link to Code: [Log classification model](https://github.com/Nipuna-Tennakoon/Portfolio-Nipuna-Tennakoon/tree/main/Machine%20Learning/Log%20Classifier)
   
      Link to Dataset: [Image Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
       
